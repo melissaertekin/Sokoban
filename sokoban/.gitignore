@@ -1,0 +1,9 @@
+# Les fichiers.o
+*.o
+# Executable de jeu
+game
+# Les fichiers Doxygen
+Doxyfile
+html/
+latex/
+Doxyfile
