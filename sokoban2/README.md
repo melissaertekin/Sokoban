@@ -1,6 +1,5 @@
 # Sokoban
-Vous trouverez ici les fichiers de base pour le TP noté concernant le jeu du Sokoban
-Les consignes et l'énoncé se trouve à cette address [TP Sokoban](https://techdevprintemps2022.pages.unistra.fr/TP_TechDevEnonce/)
+Projet de Technologie de Développement (L2 S3).
 
 # Information Generales
 Le jeu commence par l'affichage du grid du niveau 1. Vous pouvez deplacer le joueur en saisant h,j,k,l. Vous pouvez passer au nivau suivant en saisant n mais attention vous ne pouvez pas passer au niveau suivant sans avoir completer le niveau courant. Si vous avez finit toutes les niveau, le jeu s'arrete automatiquement.
@@ -24,11 +23,3 @@ Si vous voulez essayer le code source avec une autre fichier txt, il faut voir s
 (Nombre de box est ajoutée afin de voir la psoibbilité de perdre)
 
 
-# Version GCC/CLANG
-C'est une copie-colle de la commande écrit dans le terminal:
-melissaertekin@Melissa-MacBook-Pro ~ % gcc --version
-Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/4.2.1
-Apple clang version 12.0.5 (clang-1205.0.22.11)
-Target: x86_64-apple-darwin20.6.0
-Thread model: posix
-InstalledDir: /Library/Developer/CommandLineTools/usr/bin
